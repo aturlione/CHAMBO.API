@@ -1,5 +1,5 @@
-from flask import Flask, request
-from flask_restx import Api, Resource
+from flask import Flask
+from flask_restx import Api
 import geo_process
 
 app = Flask(__name__, instance_relative_config=True)

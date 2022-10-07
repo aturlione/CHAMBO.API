@@ -1,5 +1,0 @@
-"id","pointString","name","depositSize","alteredState","mineral","alias","depositNumber","lastEditedDate","lastEditedUser","type","depositType","group","winterDemand","summerDemand","autumnDemand","springDemand","annualDemand","returnRate","subCatchmentMELCAid"
-1,"""pointString""","name","""depositSize""","""alteredState""","mineral","alias",0,"2021-09-10",0,"type","""depositType""","""group""",0,0,0,0,0,0,1
-2,"""pointString""","name","""depositSize""","""alteredState""","mineral","alias",0,"2021-09-10",0,"type","""depositType""","""group""",0,0,0,0,0,0,10
-3,"""pointString""","name","""depositSize""","""alteredState""","mineral","alias",0,"2021-09-10",0,"type","""depositType""","""group""",0,0,0,0,0,0,14
-4,"""pointString""","name","""depositSize""","""alteredState""","mineral","alias",0,"2021-09-10",0,"type","""depositType""","""group""",0,0,0,0,0,0,21
